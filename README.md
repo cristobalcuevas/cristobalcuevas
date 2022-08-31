@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cristobalcuevas
-- 👀 I’m interested in Electronics
-- 🌱 I’m currently learning PIC18F4550
+- 👋 Hi, I'm @cristobalcuevas
+- 👀 I'm interested in embedded systems
+- 🌱 I'm currently learning STM32
 
 <!---
 cristobalcuevas/cristobalcuevas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
